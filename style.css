@@ -1,0 +1,18 @@
+.textoverimgb{
+    position: relative;
+    max-width: 400px;
+}
+
+.textoverimgb img {
+    width: 100%;
+}
+
+.textoverimgb figcaption
+{
+    position: absolute;
+    bottom: 0; left: 0;
+    color: #fff;
+    width: 100%;
+    text-align: center;
+    background: rgba(128, 0, 0, 0.7);
+}
